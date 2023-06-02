@@ -1,0 +1,191 @@
+{
+  "empiKey": "200519811",
+  "memberMergeFlag": false,
+  "memberInfo": [
+    {
+      "memberId": "156M97380",
+      "active": true,
+      "orgId": 1,
+      "clientId": 100000,
+      "marketId": 1000,
+      "lobId": 1000,
+      "bmId": 10000,
+      "contractId": 100000,
+      "subGroupId": null,
+      "hmoId": "156M97380",
+      "memberDemographics": [
+        {
+          "facetsMemberKey": "13275500",
+          "age": 76,
+          "firstName": "MARYJANE",
+          "lastName": "TOMASULO",
+          "middleName": "",
+          "title": "",
+          "memberDateOfBirth": "1946-09-13 00:00:00.000",
+          "memberGender": "F",
+          "memberHicn": "2XH2HG5WQ17",
+          "memberMedicaidNum": null,
+          "memberMbi": "2XH2HG5WQ17",
+          "memberPolicyId": null,
+          "memberLanguage": "English",
+          "memberSpokenLang": null,
+          "memberWrittenLang": null,
+          "death": null,
+          "memberActiveExternalPolicyDetails": [],
+          "memberAlerts": [
+            {
+              "alerts": "Due for Flu Vaccine",
+              "alertEffectiveDate": "2021-08-08 00:00:00.000",
+              "alertTermDate": "2021-09-30 00:00:00.000",
+              "severity": null,
+              "showInCasper": false
+            },
+            {
+              "alerts": "Due for MyMeds",
+              "alertEffectiveDate": "2021-07-26 00:00:00.000",
+              "alertTermDate": "2021-12-07 00:00:00.000",
+              "severity": null,
+              "showInCasper": false
+            },
+            {
+              "alerts": "Due for Healthy Journey",
+              "alertEffectiveDate": "2020-10-14 00:00:00.000",
+              "alertTermDate": "2021-07-26 00:00:00.000",
+              "severity": null,
+              "showInCasper": false
+            },
+            {
+              "alerts": "Due for Flu Vaccine",
+              "alertEffectiveDate": "2022-10-22 00:00:00.000",
+              "alertTermDate": "2022-10-25 00:00:00.000",
+              "severity": null,
+              "showInCasper": false
+            },
+            {
+              "alerts": "Due for STARS/HEDIS",
+              "alertEffectiveDate": "2020-09-03 00:00:00.000",
+              "alertTermDate": "9999-12-31 00:00:00.000",
+              "severity": null,
+              "showInCasper": false
+            },
+            {
+              "alerts": "Due for Flu Vaccine",
+              "alertEffectiveDate": "2021-10-01 00:00:00.000",
+              "alertTermDate": "2022-10-21 00:00:00.000",
+              "severity": null,
+              "showInCasper": false
+            },
+            {
+              "alerts": "Due for Healthy Journey",
+              "alertEffectiveDate": "2021-07-27 00:00:00.000",
+              "alertTermDate": "2022-05-10 00:00:00.000",
+              "severity": null,
+              "showInCasper": false
+            },
+            {
+              "alerts": "Due for Flu Vaccine",
+              "alertEffectiveDate": "2020-09-03 00:00:00.000",
+              "alertTermDate": "2021-08-07 00:00:00.000",
+              "severity": null,
+              "showInCasper": false
+            },
+            {
+              "alerts": "Due for MyMeds",
+              "alertEffectiveDate": "2020-10-19 00:00:00.000",
+              "alertTermDate": "2021-07-25 00:00:00.000",
+              "severity": null,
+              "showInCasper": false
+            }
+          ],
+          "memberAddress": [
+            {
+              "memberAddress1": "3190 Arroba Way",
+              "memberAddress2": null,
+              "memberAddress3": null,
+              "memberCity": "San Jose",
+              "memberState": "CA",
+              "memberZipCode": "95118",
+              "memberCounty": "Santa Clara",
+              "memberCountryCode": null,
+              "memberAddressType": "Home Address",
+              "memberContactNumber": "4083298048",
+              "memberEmail": null
+            },
+            {
+              "memberAddress1": "3190 Arroba Way",
+              "memberAddress2": null,
+              "memberAddress3": null,
+              "memberCity": "San Jose",
+              "memberState": "CA",
+              "memberZipCode": "95118",
+              "memberCounty": "Santa Clara",
+              "memberCountryCode": null,
+              "memberAddressType": "Mail Address",
+              "memberContactNumber": "4083298048",
+              "memberEmail": null
+            }
+          ],
+          "memberContact": [],
+          "memberCurrentPcpDetails": [
+            {
+              "pcpId": "100000119565",
+              "providerEntity": "Practitioner",
+              "providerName": "BECERRA, OSCAR D.",
+              "pcpFirstName": "OSCAR",
+              "pcpLastName": "BECERRA",
+              "pcpTitle": "MD",
+              "pcpNPIID": "1316931439",
+              "pcpEffectiveDate": "2022-06-01 00:00:00.000",
+              "pcpTermDate": "9999-12-31 00:00:00.000",
+              "pcpType": "Primary Care Physician",
+              "pcpPrimarySpecialty": "Family Medicine",
+              "memberPCPAdress": [
+                {
+                  "pcpAddress1": "16130 Juan Hernandez Dr Ste 100",
+                  "pcpAddress2": null,
+                  "pcpAddress3": null,
+                  "pcpCity": "Morgan Hill",
+                  "pcpState": "CA",
+                  "pcpZip": "950375541",
+                  "pcpCounty": "Santa Clara",
+                  "pcpCountryCode": "USA",
+                  "pcpContactNumber": "4088713400",
+                  "pcpContactNumberExt": null,
+                  "pcpFaxNumber": "4088715214",
+                  "pcpFaxExt": "ECHM",
+                  "pcpEmail": null,
+                  "pcpAddressEffectiveDate": "2022-04-01 00:00:00.000",
+                  "pcpAddressTermDate": "9999-12-31 00:00:00.000",
+                  "pcpAddressType": "P"
+                }
+              ],
+              "pcpSecondarySpecialty": null
+            }
+          ],
+          "memberActiveHealthPlan": [
+            {
+              "memberPlanId": "H1206117",
+              "memberPlanDesc": "ANTHEM MEDIBLUE LUNG (HMO C-SNP) (ECHMN)",
+              "productId": "H126C117",
+              "productDesc": "Anthem MediBlue Lung (Santa Clara County) (ECHMN)",
+              "memberPlanEffectiveDate": "2022-11-01 00:00:00.000",
+              "memberPlanTerminationDate": "2199-12-31 00:00:00.000",
+              "memberPlanGroupId": "H0544",
+              "memberPlanGroupName": "Anthem Blue Cross",
+              "nwSetPrefix": "1321",
+              "dualsIndicator": "N",
+              "planTypeCode": "M",
+              "planTypeDescription": "Medical Product",
+              "explanationCode": "EAC",
+              "enrollReasonCd": "",
+              "enrollReasonDesc": "Not Assigned",
+              "county": null,
+              "planIdForCMS": null,
+              "snpType": "C-SNP"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,369 @@
+{
+    "empiKey": "200470182",
+    "memberMergeFlag": false,
+    "memberInfo": [
+        {
+            "memberId": "133W01702",
+            "active": true,
+            "orgId": 1,
+            "clientId": 100000,
+            "marketId": 1000,
+            "lobId": 1000,
+            "bmId": 10000,
+            "contractId": 100000,
+            "subGroupId": null,
+            "hmoId": "133W01702",
+            "memberDemographics": [
+                {
+                    "facetsMemberKey": "20318850",
+                    "age": 67,
+                    "firstName": "MARY",
+                    "lastName": "PORRAS",
+                    "middleName": "L",
+                    "title": "",
+                    "memberDateOfBirth": "1955-06-02 00:00:00.000",
+                    "memberGender": "F",
+                    "memberHicn": "6A38NU7GW59",
+                    "memberMedicaidNum": "328523395",
+                    "memberMbi": "6A38NU7GW59",
+                    "memberPolicyId": null,
+                    "memberLanguage": "English",
+                    "memberSpokenLang": null,
+                    "memberWrittenLang": null,
+                    "death": null,
+                    "memberActiveExternalPolicyDetails": [],
+                    "memberAlerts": [
+                        {
+                            "alerts": "Due for MyMeds",
+                            "alertEffectiveDate": "2021-02-04 00:00:00.000",
+                            "alertTermDate": "2021-04-14 00:00:00.000",
+                            "severity": null,
+                            "showInCasper": false
+                        },
+                        {
+                            "alerts": "Essentials Benefit - 7480 - Transportation Essentials Benefit - 7480 - Transportation",
+                            "alertEffectiveDate": "2022-07-23 00:00:00.000",
+                            "alertTermDate": "2022-07-23 00:00:00.000",
+                            "severity": null,
+                            "showInCasper": false
+                        },
+                        {
+                            "alerts": "Due for MyMeds",
+                            "alertEffectiveDate": "2022-06-04 00:00:00.000",
+                            "alertTermDate": "2022-07-26 00:00:00.000",
+                            "severity": null,
+                            "showInCasper": false
+                        },
+                        {
+                            "alerts": "Due for STARS/HEDIS",
+                            "alertEffectiveDate": "2020-09-03 00:00:00.000",
+                            "alertTermDate": "2022-12-13 00:00:00.000",
+                            "severity": null,
+                            "showInCasper": false
+                        },
+                        {
+                            "alerts": "Due for Flu Vaccine",
+                            "alertEffectiveDate": "2020-09-03 00:00:00.000",
+                            "alertTermDate": "2021-08-07 00:00:00.000",
+                            "severity": null,
+                            "showInCasper": false
+                        },
+                        {
+                            "alerts": "Due for STARS/HEDIS",
+                            "alertEffectiveDate": "2022-12-14 00:00:00.000",
+                            "alertTermDate": "9999-12-31 00:00:00.000",
+                            "severity": null,
+                            "showInCasper": false
+                        },
+                        {
+                            "alerts": "Due for MyMeds",
+                            "alertEffectiveDate": "2021-04-15 00:00:00.000",
+                            "alertTermDate": "2021-07-24 00:00:00.000",
+                            "severity": null,
+                            "showInCasper": false
+                        },
+                        {
+                            "alerts": "Due for MyMeds",
+                            "alertEffectiveDate": "2022-07-27 00:00:00.000",
+                            "alertTermDate": "2022-10-13 00:00:00.000",
+                            "severity": null,
+                            "showInCasper": false
+                        },
+                        {
+                            "alerts": "Due for Healthy Start",
+                            "alertEffectiveDate": "2022-01-01 00:00:00.000",
+                            "alertTermDate": "2022-02-26 00:00:00.000",
+                            "severity": null,
+                            "showInCasper": false
+                        },
+                        {
+                            "alerts": "Due for MyMeds",
+                            "alertEffectiveDate": "2022-10-14 00:00:00.000",
+                            "alertTermDate": "2022-10-30 00:00:00.000",
+                            "severity": null,
+                            "showInCasper": false
+                        },
+                        {
+                            "alerts": "Due for MyMeds",
+                            "alertEffectiveDate": "2021-07-25 00:00:00.000",
+                            "alertTermDate": "2022-06-03 00:00:00.000",
+                            "severity": null,
+                            "showInCasper": false
+                        },
+                        {
+                            "alerts": "Due for Flu Vaccine",
+                            "alertEffectiveDate": "2021-08-08 00:00:00.000",
+                            "alertTermDate": "2022-10-21 00:00:00.000",
+                            "severity": null,
+                            "showInCasper": false
+                        },
+                        {
+                            "alerts": "Due for Flu Vaccine",
+                            "alertEffectiveDate": "2022-10-22 00:00:00.000",
+                            "alertTermDate": "2022-12-14 00:00:00.000",
+                            "severity": null,
+                            "showInCasper": false
+                        },
+                        {
+                            "alerts": "Due for MyMeds",
+                            "alertEffectiveDate": "2020-10-14 00:00:00.000",
+                            "alertTermDate": "2021-02-03 00:00:00.000",
+                            "severity": null,
+                            "showInCasper": false
+                        },
+                        {
+                            "alerts": "Due for Healthy Journey",
+                            "alertEffectiveDate": "2022-07-15 00:00:00.000",
+                            "alertTermDate": "2022-09-29 00:00:00.000",
+                            "severity": null,
+                            "showInCasper": false
+                        },
+                        {
+                            "alerts": "Essentials Benefit - 7480 - Transportation Essentials Benefit - 7480 - Transportation",
+                            "alertEffectiveDate": "2023-01-01 00:00:00.000",
+                            "alertTermDate": "2023-01-01 00:00:00.000",
+                            "severity": null,
+                            "showInCasper": false
+                        }
+                    ],
+                    "memberAddress": [
+                        {
+                            "memberAddress1": "15450 Nisqualli Rd",
+                            "memberAddress2": "Apt P103",
+                            "memberAddress3": null,
+                            "memberCity": "Victorville",
+                            "memberState": "CA",
+                            "memberZipCode": "92395",
+                            "memberCounty": "San Bernardino",
+                            "memberCountryCode": null,
+                            "memberAddressType": "Mail Address",
+                            "memberContactNumber": "5624743009",
+                            "memberEmail": null
+                        },
+                        {
+                            "memberAddress1": "13911 Norwalk Blvd # 9",
+                            "memberAddress2": null,
+                            "memberAddress3": null,
+                            "memberCity": "Norwalk",
+                            "memberState": "CA",
+                            "memberZipCode": "90650",
+                            "memberCounty": "Los Angeles",
+                            "memberCountryCode": null,
+                            "memberAddressType": "Home Address",
+                            "memberContactNumber": "7607052602",
+                            "memberEmail": null
+                        }
+                    ],
+                    "memberContact": [],
+                    "memberCurrentPcpDetails": [
+                        {
+                            "pcpId": "100000000001",
+                            "providerEntity": "Practitioner",
+                            "providerName": "PROVIDER CANT FIND",
+                            "pcpFirstName": "",
+                            "pcpLastName": "PROVIDER CANT FIND",
+                            "pcpTitle": "",
+                            "pcpNPIID": "9999999999",
+                            "pcpEffectiveDate": "2023-01-01 00:00:00.000",
+                            "pcpTermDate": "9999-12-31 00:00:00.000",
+                            "pcpType": "Primary Care Physician",
+                            "pcpPrimarySpecialty": null,
+                            "memberPCPAdress": [
+                                {
+                                    "pcpAddress1": "NOT FOR PROCESSING",
+                                    "pcpAddress2": null,
+                                    "pcpAddress3": null,
+                                    "pcpCity": "TO BE USED FOR ADD",
+                                    "pcpState": "CA",
+                                    "pcpZip": null,
+                                    "pcpCounty": null,
+                                    "pcpCountryCode": "USA",
+                                    "pcpContactNumber": "0000000000",
+                                    "pcpContactNumberExt": null,
+                                    "pcpFaxNumber": "0000000000",
+                                    "pcpFaxExt": "CHP",
+                                    "pcpEmail": null,
+                                    "pcpAddressEffectiveDate": "2003-02-01 00:00:00.000",
+                                    "pcpAddressTermDate": "9999-12-31 00:00:00.000",
+                                    "pcpAddressType": "P"
+                                }
+                            ],
+                            "pcpSecondarySpecialty": null
+                        }
+                    ],
+                    "memberActiveHealthPlan": [
+                        {
+                            "memberPlanId": "H1200128",
+                            "memberPlanDesc": "ANTHEM MEDIBLUE CONNECT PLUS (HMO)",
+                            "productId": "H120A128",
+                            "productDesc": "Anthem MediBlue Connect Plus (Los Angeles/Orange County)",
+                            "memberPlanEffectiveDate": "2022-12-01 00:00:00.000",
+                            "memberPlanTerminationDate": "2199-12-31 00:00:00.000",
+                            "memberPlanGroupId": "H0544",
+                            "memberPlanGroupName": "Anthem Blue Cross",
+                            "nwSetPrefix": "1040",
+                            "dualsIndicator": "N",
+                            "planTypeCode": "M",
+                            "planTypeDescription": "Medical Product",
+                            "explanationCode": "EAC",
+                            "enrollReasonCd": "",
+                            "enrollReasonDesc": "Not Assigned",
+                            "county": "Los Angeles",
+                            "planIdForCMS": null,
+                            "snpType": "D-SNP"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "memberId": "133W01702",
+            "active": true,
+            "orgId": 1,
+            "clientId": 100000,
+            "marketId": 1000,
+            "lobId": 1000,
+            "bmId": 10000,
+            "contractId": 154050,
+            "subGroupId": null,
+            "hmoId": "133W01702",
+            "memberDemographics": [
+                {
+                    "facetsMemberKey": "27412000",
+                    "age": 67,
+                    "firstName": "MARY",
+                    "lastName": "PORRAS",
+                    "middleName": "L",
+                    "title": "",
+                    "memberDateOfBirth": "1955-06-02 00:00:00.000",
+                    "memberGender": "F",
+                    "memberHicn": "6A38NU7GW59",
+                    "memberMedicaidNum": "328523395",
+                    "memberMbi": "6A38NU7GW59",
+                    "memberPolicyId": null,
+                    "memberLanguage": "English",
+                    "memberSpokenLang": null,
+                    "memberWrittenLang": null,
+                    "death": null,
+                    "memberActiveExternalPolicyDetails": [],
+                    "memberAlerts": [
+                        {
+                            "alerts": "Essentials Benefit - 7480 - Transportation Essentials Benefit - 7480 - Transportation",
+                            "alertEffectiveDate": "2023-01-01 00:00:00.000",
+                            "alertTermDate": "2199-12-31 00:00:00.000",
+                            "severity": null,
+                            "showInCasper": false
+                        }
+                    ],
+                    "memberAddress": [
+                        {
+                            "memberAddress1": "13911 Norwalk Blvd",
+                            "memberAddress2": "Apt 9",
+                            "memberAddress3": null,
+                            "memberCity": "Norwalk",
+                            "memberState": "CA",
+                            "memberZipCode": "90650",
+                            "memberCounty": "Los Angeles",
+                            "memberCountryCode": null,
+                            "memberAddressType": "Mail Address",
+                            "memberContactNumber": "7607052602",
+                            "memberEmail": null
+                        },
+                        {
+                            "memberAddress1": "13911 NORWALK BLVD",
+                            "memberAddress2": "APT 9",
+                            "memberAddress3": null,
+                            "memberCity": "NORWALK",
+                            "memberState": "CA",
+                            "memberZipCode": "90650",
+                            "memberCounty": "Los Angeles",
+                            "memberCountryCode": null,
+                            "memberAddressType": "Home Address",
+                            "memberContactNumber": "7607052602",
+                            "memberEmail": null
+                        }
+                    ],
+                    "memberContact": [],
+                    "memberCurrentPcpDetails": [
+                        {
+                            "pcpId": "100000000876",
+                            "providerEntity": "Practitioner",
+                            "providerName": "URIBE, DANIEL",
+                            "pcpFirstName": "DANIEL",
+                            "pcpLastName": "URIBE",
+                            "pcpTitle": "MD",
+                            "pcpNPIID": "1922049279",
+                            "pcpEffectiveDate": "2023-01-01 00:00:00.000",
+                            "pcpTermDate": "9999-12-31 00:00:00.000",
+                            "pcpType": "Primary Care Physician",
+                            "pcpPrimarySpecialty": "Family Practice",
+                            "memberPCPAdress": [
+                                {
+                                    "pcpAddress1": "13307 San Antonio Dr",
+                                    "pcpAddress2": null,
+                                    "pcpAddress3": null,
+                                    "pcpCity": "Norwalk",
+                                    "pcpState": "CA",
+                                    "pcpZip": "906502970",
+                                    "pcpCounty": "Los Angeles",
+                                    "pcpCountryCode": "USA",
+                                    "pcpContactNumber": "5628071877",
+                                    "pcpContactNumberExt": null,
+                                    "pcpFaxNumber": "5628686795",
+                                    "pcpFaxExt": "CHP",
+                                    "pcpEmail": null,
+                                    "pcpAddressEffectiveDate": "2018-09-29 00:00:00.000",
+                                    "pcpAddressTermDate": "9999-12-31 00:00:00.000",
+                                    "pcpAddressType": "P"
+                                }
+                            ],
+                            "pcpSecondarySpecialty": null
+                        }
+                    ],
+                    "memberActiveHealthPlan": [
+                        {
+                            "memberPlanId": "H4161001",
+                            "memberPlanDesc": "ANTHEM MEDIBLUE FULL DUAL ADVANTAGE (HMO D-SNP)",
+                            "productId": "H4161A01",
+                            "productDesc": "Anthem MediBlue Full Dual Advantage (Los Angeles County)",
+                            "memberPlanEffectiveDate": "2023-01-01 00:00:00.000",
+                            "memberPlanTerminationDate": "2199-12-31 00:00:00.000",
+                            "memberPlanGroupId": "H4161",
+                            "memberPlanGroupName": "Anthem Blue Cross Partnership Plan",
+                            "nwSetPrefix": "A000",
+                            "dualsIndicator": "Y",
+                            "planTypeCode": "M",
+                            "planTypeDescription": "Medical Product",
+                            "explanationCode": "",
+                            "enrollReasonCd": "",
+                            "enrollReasonDesc": "Not Assigned",
+                            "county": null,
+                            "planIdForCMS": null,
+                            "snpType": "D-SNP"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

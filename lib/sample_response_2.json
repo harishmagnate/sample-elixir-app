@@ -1,0 +1,128 @@
+{
+  "empiKey": "200477194",
+  "memberMergeFlag": false,
+  "memberInfo": [
+    {
+      "memberId": "032M97378",
+      "active": false,
+      "orgId": 1,
+      "clientId": 100000,
+      "marketId": 1000,
+      "lobId": 1000,
+      "bmId": 10000,
+      "contractId": 100000,
+      "subGroupId": null,
+      "hmoId": "032M97378",
+      "memberDemographics": [
+        {
+          "facetsMemberKey": "15654850",
+          "age": 89,
+          "firstName": "PATRICIA",
+          "lastName": "THOMAS",
+          "middleName": "A",
+          "title": "",
+          "memberDateOfBirth": "1933-05-14 00:00:00.000",
+          "memberGender": "F",
+          "memberHicn": "5FD2PC8RQ23",
+          "memberMedicaidNum": null,
+          "memberMbi": "5FD2PC8RQ23",
+          "memberPolicyId": null,
+          "memberLanguage": "English",
+          "memberSpokenLang": null,
+          "memberWrittenLang": null,
+          "death": null,
+          "memberActiveExternalPolicyDetails": [],
+          "memberAlerts": [
+            {
+              "alerts": "Due for STARS/HEDIS",
+              "alertEffectiveDate": "2020-09-03 00:00:00.000",
+              "alertTermDate": "2022-10-26 00:00:00.000",
+              "severity": null,
+              "showInCasper": false
+            },
+            {
+              "alerts": "Due for MyMeds",
+              "alertEffectiveDate": "2021-08-16 00:00:00.000",
+              "alertTermDate": "2022-07-29 00:00:00.000",
+              "severity": null,
+              "showInCasper": false
+            },
+            {
+              "alerts": "Due for MyMeds",
+              "alertEffectiveDate": "2021-01-02 00:00:00.000",
+              "alertTermDate": "2021-05-17 00:00:00.000",
+              "severity": null,
+              "showInCasper": false
+            },
+            {
+              "alerts": "Due for Flu Vaccine",
+              "alertEffectiveDate": "2021-08-08 00:00:00.000",
+              "alertTermDate": "2022-10-21 00:00:00.000",
+              "severity": null,
+              "showInCasper": false
+            },
+            {
+              "alerts": "Due for MyMeds",
+              "alertEffectiveDate": "2022-07-30 00:00:00.000",
+              "alertTermDate": "2022-08-21 00:00:00.000",
+              "severity": null,
+              "showInCasper": false
+            },
+            {
+              "alerts": "Due for Flu Vaccine",
+              "alertEffectiveDate": "2020-09-03 00:00:00.000",
+              "alertTermDate": "2021-08-07 00:00:00.000",
+              "severity": null,
+              "showInCasper": false
+            },
+            {
+              "alerts": "Due for Flu Vaccine",
+              "alertEffectiveDate": "2022-10-22 00:00:00.000",
+              "alertTermDate": "9999-12-31 00:00:00.000",
+              "severity": null,
+              "showInCasper": false
+            },
+            {
+              "alerts": "Due for MyMeds",
+              "alertEffectiveDate": "2021-05-18 00:00:00.000",
+              "alertTermDate": "2021-08-15 00:00:00.000",
+              "severity": null,
+              "showInCasper": false
+            }
+          ],
+          "memberAddress": [
+            {
+              "memberAddress1": "14524 La Mesa Dr",
+              "memberAddress2": null,
+              "memberAddress3": null,
+              "memberCity": "La Mirada",
+              "memberState": "CA",
+              "memberZipCode": "90638",
+              "memberCounty": "Los Angeles",
+              "memberCountryCode": null,
+              "memberAddressType": "Mail Address",
+              "memberContactNumber": "5629432006",
+              "memberEmail": null
+            },
+            {
+              "memberAddress1": "14524 La Mesa Dr",
+              "memberAddress2": null,
+              "memberAddress3": null,
+              "memberCity": "La Mirada",
+              "memberState": "CA",
+              "memberZipCode": "90638",
+              "memberCounty": "Los Angeles",
+              "memberCountryCode": null,
+              "memberAddressType": "Home Address",
+              "memberContactNumber": "5629432006",
+              "memberEmail": null
+            }
+          ],
+          "memberContact": [],
+          "memberCurrentPcpDetails": [],
+          "memberActiveHealthPlan": []
+        }
+      ]
+    }
+  ]
+}
