@@ -1,6 +1,6 @@
 # SampleApp
 
-**TODO: Add description**
+TO demonstrate Elixir features
 
 ## Installation
 
